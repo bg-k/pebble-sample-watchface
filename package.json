@@ -1,0 +1,24 @@
+{
+    "author": "penginryo@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebble-sample-watchface",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "pebble-sample-watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "489f9683-996f-4b91-8cc1-62fce157efb6",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
